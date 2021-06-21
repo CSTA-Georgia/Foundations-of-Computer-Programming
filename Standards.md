@@ -2,6 +2,8 @@
 ## MS-CS-FCP-1 Demonstrate employability skills required by business and industry and explore, research, and present careers in information technology.
 
 * 1.1 Communicate effectively through writing, speaking, listening, reading, and interpersonal abilities.
+  * [Link to standard 1.1 activity](https://www.mywebsite.com)
+
 * 1.2 Demonstrate an understanding of collaborative interactions in the digital world.
 * 1.3 Model work-readiness traits required for success in the workplace including integrity, honesty, accountability, punctuality, time management, and respect for diversity.
 * 1.4 Exhibit critical thinking and problem-solving skills to locate, analyze, and apply information in career planning and employment situations.
